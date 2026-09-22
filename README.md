@@ -1,2 +1,2 @@
-# JS-Tutorial
-A code repo for javascript
+# Jenkins
+A code repo for Jenkins
